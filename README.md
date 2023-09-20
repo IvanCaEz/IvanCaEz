@@ -15,7 +15,7 @@
 
 ## Contacto
 
-![Gmail](https://img.shields.io/badge/Gmail-ivanmartinezca10%40gmail.com-black?style=for-the-badge&logo=Gmail&labelColor=262626)
+<a href="mailto:ivanmartinezca10@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-ivanmartinezca10%40gmail.com-black?style=for-the-badge&logo=Gmail&labelColor=262626&link=mailto%3Aivanmartinezca10%40gmail.com)
 
 <!---
 IvanCaEz/IvanCaEz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
