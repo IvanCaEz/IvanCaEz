@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iván Martínez
 
-#### Estudiante de 2º de DAM
+Estudiante de 2º de DAM
 
 
 ## Tecnologías
