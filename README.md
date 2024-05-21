@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iván Martínez
 
-Estudiante de 2º de DAM
+Software Developer
 
 
 ## Tecnologías
@@ -10,7 +10,7 @@ Estudiante de 2º de DAM
   ![Compose](https://img.shields.io/badge/-compose-4285F4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVfSURBVHgB7ZltbBRFGMf/z+7e3XIvvdLWltKihQKlGF5iqYBgw0tBqBCjJog1MQJBEpGo0YilQAuIQQQ/GPykUUqwgZigRhsM0FJKGkwQBCShtsJJeREoPUuboy+7t+NcaaAH3N3u3kUSuV+yyc7MM7P/e2Z25nn2gDhx4jxwCDGknJULBzzSK6RpLwLCoyTguKAIW2pzVjUghsRM9NQzG6aRhE0gmnhXUw8RfWGFuPlA9gfNiAFRi555bmNaj+ZfTSQsZQy2kIZEf4GxrZpqqagftbIDUWBadOHZTe4uqEuIoYQXUwx0bSTS1tVlr62ESUyJntrElwIJmwGWD/P8DEalh0eUHodBDImefm5DjqrROgYsoJi8D0zjwivIjrK6jNUX9PbS9eC5TStsPqSWMKK3eDERMYa/C5f4y/qVKCqf1g4tb4tkH1H0054Pn4MfW/ltNnSgdXZDa/dBU/wQZAtEtwtkEaEL/rIStHfrstfsCWsWrnFq4/piEoQKfishEn4NqrcdWlfPPU2iQ4Y40BUQFXEY8luY2Dx0/sFZC6pC2YR1QftZZ4Volwbbs5yhn8bn1t/RCb/3Bhj37n1NFBWar6vXVrBZQw4lnB/NxPoiIs+YTE/NR9tD2YUWM3yuTXZ2dwZs5EwHspblMFduYpC95uNib/jAuJf7MyYhF2MTRmNfyyG0dF8PfqAk8iXjgGCX79T5EiD+OpvRlUzqU8VqShwinxlmTHRenl32u339q5KnpLKM4myypdigtHLPditBXR6xJWPRkIXIdY28XVfvPYrdl75Dh+oLfrBVguROY1Ljk0R/jgMpwTNQoDjE8nLS7ict8lrtR2v9NfIeaUHyBAlp87IguW4dgBKJKEor5NdM2ITgQ3FKUj7Gcc/va6lD1dX90FifDk8K2B8TSZAnwCiGRAdgGsPVnxrQWteEQfNGomDhs3j9sVcx0JIQso9TcuKF9CIUJE/CtoadaD7sBlqSwEQ+mGx8vxdgCsYUbycu7DiJZzomhRXcnxRrEp6XX+oVHA0mRd9BFCVmxN4uWwzZ34+oRT8I4qL/Kx5O0X5VMWSv8tgWURK16C2b1tPF5vO6bJuavfjy+xP9aszpN3y49CIEut3y8KkTx1BUOBkLi1/DomXLkZ6ecY95W3sXdu49jeNn/g4exuI0pdqUp0V3OpHVHlS3q3I75s+agj3fVvIloPbWdfOo74faRqz8rDpIME/VIA3IhMU5AmYwFDDdDevs4GHpNb5Qg2PowYOHYMGS99DQmoTrbTeD2kRLIiyuHAiiI9zQvppVDleoKC+cpwPz3xOmHTTABSk1G4I7NaDmdv3lyxfwza49QYJJlGF15cKW+EQkwRx/VSjB4UUfO6bwaSiFDgRHMqQ0Lt4eSB/7Jq8vmiMeAVocwzBg4GRIcrqO0dg/pLCScBZhMxf1iucXadAwD78dj4gJLfFswQWBe5/5/bC7M1jy0OlkTXgcki01cqrFA3+e3FapGnu5tszdFN5UD+OnJcokvsODu8W8lKmnS2rWDAzPfxu6YDjJf1RJTaljrx5zfbvHidq2rt+qy0iVnuKlr/mlIQZwj3m5f9doB45O0Cs4gKF9uvP0vsAHlcX2sTO2aUQbQWwOzKFywTv8ilBWW26/CIOYOlxunqoJfMqaax0zvVgQaS2/z9Hfmx3hGeua/aXOapgkqmO85/eDlU5Hdz4DvcmL4c9yxq6ACSs0xVkQjeAA5o7xflyvrw98tv1cziv8ke8a7/M9ZCkvB6XWfCl8AoF9XL3K3ooYENN/AgJY82aPElX1jbTsOVnD8pZf5N9Edh9c6zqEOHHi/L/4Fxjst3p2JRZrAAAAAElFTkSuQmCC&labelColor=262626)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fcfc54&labelColor=262626) ![FastAPI](https://img.shields.io/badge/-fastapi-29806E?style=for-the-badge&logo=fastapi&labelColor=262626
-)
+)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&labelColor=262626)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&labelColor=262626) ![CSS3](https://img.shields.io/badge/-css3-0066ff?style=for-the-badge&logo=css3&labelColor=262626&logoColor=0066ff)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&labelColor=262626) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&labelColor=262626) 
