@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a software developer with experience developing Android applications with Kotlin using Jetpack Compose
-and backend services with Kotlin using KTor and Python using frameworks like Django and FastAPI.
+and backend services with using KTor and Python frameworks like Django and FastAPI.
 
 
 ## 💻 Technologies
