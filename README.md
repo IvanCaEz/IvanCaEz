@@ -5,6 +5,8 @@
 I'm a software developer with experience developing Android applications with Kotlin using Jetpack Compose
 and backend services with KTor and Python frameworks like Django and FastAPI.
 
+📚 Currently learning -> Spring Boot
+
 
 ## 💻 Technologies
 
